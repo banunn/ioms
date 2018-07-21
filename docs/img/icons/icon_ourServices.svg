@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>outline-offline_bolt-24px (1)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-142.000000, -1441.000000)">
+            <g id="outline-offline_bolt-24px-(1)" transform="translate(138.000000, 1437.000000)">
+                <g id="Bounding_Boxes">
+                    <rect id="Rectangle-path" x="0" y="0" width="48" height="48"></rect>
+                </g>
+                <g id="Outline" transform="translate(4.000000, 4.000000)" fill="#00C6FF" fill-rule="nonzero">
+                    <g id="Group">
+                        <path d="M20,0.04 C8.98,0.04 0.04,8.98 0.04,20 C0.04,31.02 8.98,39.96 20,39.96 C31.02,39.96 39.96,31.02 39.96,20 C39.96,8.98 31.02,0.04 20,0.04 Z M20,35.96 C11.2,35.96 4.04,28.8 4.04,20 C4.04,11.2 11.2,4.04 20,4.04 C28.8,4.04 35.96,11.2 35.96,20 C35.96,28.8 28.8,35.96 20,35.96 Z" id="Shape"></path>
+                        <polygon id="Shape" points="21.5 6 12.5 23 18.78 23 18.78 34 27.5 17 21.5 17"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

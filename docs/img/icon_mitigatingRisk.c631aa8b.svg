@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>baseline-donut_small-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-819.000000, -902.000000)">
+            <g id="baseline-donut_small-24px" transform="translate(840.000000, 923.000000) rotate(-315.000000) translate(-840.000000, -923.000000) translate(816.000000, 899.000000)">
+                <path d="M29.72,22 L44,22 C43.04,12.5 36,4.94 26,4 L26,18.32 C28,18.92 29.04,20.28 29.72,22 Z M26,29.68 L26,44 C36,43.06 43.04,35.5 44,26 L29.72,26 C29.04,27.72 28,29.08 26,29.68 Z M22,18.28 L22,4 C12.5,4.96 4.94,12 4,22 L18.32,22 C18.92,20 20.28,18.96 22,18.28 Z M18.32,26 L4,26 C4.94,36 12.5,43.04 22,44 L22,29.72 C20.28,29.04 18.92,28 18.32,26 Z" id="Shape" fill="#00C6FF" fill-rule="nonzero"></path>
+                <polygon id="Shape" points="0 0 48 0 48 48 0 48"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
