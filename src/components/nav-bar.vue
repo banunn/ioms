@@ -21,7 +21,6 @@
             <router-link to="/">Home</router-link>
             <router-link to="/about">About IOMS</router-link>
             <router-link to="/services">Our Services</router-link>
-            <router-link to="/contact">Contact Us</router-link>
           </nav>
       </div>
       </transition>
@@ -75,6 +74,7 @@ export default {
           if(newVal.name != 'home') {
               this.homeBar = false;
           }
+          this.navOpen = false;
       }
   }
 };

@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Archia';
+    src: url('hinted-Archia-SemiBold.woff2') format('woff2'),
+        url('hinted-Archia-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archia';
+    src: url('hinted-Archia-Medium.woff2') format('woff2'),
+        url('hinted-Archia-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archia';
+    src: url('hinted-Archia-Regular.woff2') format('woff2'),
+        url('hinted-Archia-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archia';
+    src: url('hinted-Archia-Bold.woff2') format('woff2'),
+        url('hinted-Archia-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archia';
+    src: url('hinted-Archia-Thin.woff2') format('woff2'),
+        url('hinted-Archia-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archia';
+    src: url('hinted-Archia-Light.woff2') format('woff2'),
+        url('hinted-Archia-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
