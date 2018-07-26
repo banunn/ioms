@@ -1,9 +1,9 @@
 <template>
   <section class="hero">
       <div class="detail">
-          <img src="../../public/img/ioms_hero_logo.svg" alt="">
+          <img src="@/assets/ioms_logo_hero.svg" alt="">
           <h1>{{title}}</h1>
-          <p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s exciting to think about setting up your own viewing station whether that is on the deck of your home or having a powerful but mobile telescope set up to take to the remove countryside to really get a good shot at some breath taking star gazing.</p>
+          <p>Our neurological monitors are an integral part of the operating room team. Through advanced training, continuing education, and a patient-centric approach to care, we help guide surgeons through any procedure where neural structures could potentially be at risk.</p>
             <footer>
                 Learn more about <span>Intraoperative Neurophysiologic Monitoring <i class="material-icons">arrow_forward</i></span>
             </footer> 

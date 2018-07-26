@@ -91,7 +91,7 @@ text-align: center;
     position: absolute;
     top:0;
     left:-96px;
-    background: url('../assets/logo_stamp.png') center center ;
+    background: url('../assets/ioms_logo_footer.svg') no-repeat center center ;
     height :48px;
     width: 48px;
     @media(max-width: 700px) {

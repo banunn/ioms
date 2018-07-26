@@ -8,6 +8,10 @@ import { sync } from 'vuex-router-sync'
 
 const unsync = sync(store, router) // done. Returns an unsync callback fn
 
+var VueScrollTo = require('vue-scrollto');
+ 
+Vue.use(VueScrollTo)
+
 Vue.config.productionTip = false
 
 new Vue({

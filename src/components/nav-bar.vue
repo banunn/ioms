@@ -2,13 +2,12 @@
   <div :class="{'transparent': homeBar}" class="top-nav">
       <div class="wrap">
       <section @click="goHome" class="brand">
-            <img src="../../public/img/ioms_logo.svg" alt="IOMS Logo">
+            <img src="@/assets/ioms_logo_header.svg" alt="IOMS Logo">
       </section>
         <nav>
             <router-link to="/">Home</router-link>
             <router-link to="/about">About IOMS</router-link>
             <router-link to="/services">Our Services</router-link>
-            <router-link to="/contact">Contact Us</router-link>
             <button @click="navOpen = !navOpen" class="menu-btn offscreen-btn"><i class="material-icons">menu</i></button>
         </nav>
       </div>

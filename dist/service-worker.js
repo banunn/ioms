@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.901fefe06f788031c6aa39215d8ec514.js"
+  "/precache-manifest.09618b769878be0aa7ad575de70e4d25.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ioms"});

@@ -29,9 +29,9 @@ export default {
     return {
       detail: {
         a:
-          "There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s exciting to think about setting up your own viewing station whether that is on the deck of your home or having a powerful but mobile telescope.",
+          "Our neurological monitors are an integral part of the operating room team. Through advanced training, continuing education, and a patient-centric approach to care, we help guide surgeons through any procedure where neural structures could potentially be at risk.",
         b:
-          "There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s exciting to think about setting up your own viewing station whether that is on the deck of your home or having a powerful but mobile telescope."
+          "The goal of neurophysiological monitoring is to mitigate the risk of injury to the nervous system during procedures where neural structures face vulnerability. "
       }
     };
   }

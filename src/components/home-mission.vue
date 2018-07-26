@@ -7,7 +7,7 @@
               <img src="../../public/img/icons/icon_ourMission.svg" alt="">
               <h1>Our Mission</h1>
               <p>{{desc}}</p>
-              <button class="btn">Contact Us</button>
+              <a v-scroll-to="'.site-foot'" class="btn">Contact Us</a>
           </div>
       </div>
   </div>
@@ -20,7 +20,7 @@ export default {
   data() {
     return {
       desc:
-        "There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s exciting to think about setting up your own viewing station whether that is on the deck of your home or having a powerful but mobile telescope."
+        "Our mission is to protect and improve the quality of life for every patient we serve. We leverage industry-leading training and technology to provide real-time guidance to the entire surgical team – reducing overall risk and ensuring that our patients’ long-term well being is protected every step of the way."
     };
   }
 };
@@ -115,5 +115,8 @@ export default {
   line-height: 16px;
   text-align: center;
   text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 </style>
