@@ -6,21 +6,20 @@
         <div>
           <div class="content-block">
             <header>Our Mission</header>
-            <div class="c-content"><p>When learning to find the great constellations in the sky, we use the “find one, you found them all” system. That is because the easiest constellation to find will guide us to the rest of them. That constellation is The Big Dipper. Look to the northern sky on a clear night and widen your field of vision from just focusing on one star.</p></div>
+            <div class="c-content"><p>Our mission is to protect and improve the quality of life for every patient we serve. We leverage industry-leading training and technology to provide real-time guidance to the entire surgical team – reducing overall risk and ensuring that our patients’ long-term well being is protected every step of the way.</p></div>
           </div>
           <div class="content-block">
-            <header>Our Philosophy</header>
+            <header>Our Purpose</header>
             <div class="c-content">
-              <p>Constellations also have been important in culture and navigation long before we had sophisticated systems of navigation. Early explorers, particularly by sea, relied exclusively on the night sky to help them find their way to their destination. In fact, when “Columbus sailed the ocean blue in 1492″ and “discovered” America, he could not have done it without astronomy and the help of navigation of the cosmos, much of which is made possible because of the important constellations.</p> 
-<p>When learning to find the great constellations in the sky, we use the “find one, you found them all” system. That is because the easiest constellation to find will guide us to the rest of them. That constellation is The Big Dipper. Look to the northern sky on a clear night and widen your field of vision from just focusing on one star.</p></div>
+              <p>Our purpose is to bring clinical expertise and cutting-edge technology, along with a patient-centered approach and compassionate care, to provide coverage of any case involving at risk neural structures. Our extensively trained surgical neurophysiologists are equiped to administer a number of intraoperative procedures that help surgical teams dramatically improve patient safety during brain, spine, and peripheral nerve surgeries. Our on-site neurodiagnostic technologists collect, analyze and, in conjuntion with our remote interpreting physicians, interpret real-time analytics on patient neural functions, and immediately detect any neurological deficits during surgeries. This real-time feedback allows surgeons to promptly take corrective action, and thus helps mitigate the risk of postoperative neurological deficits.</p>
+            </div>
           </div>
         </div>
         <div>
           <div class="content-block">
             <header>Our Staff</header>
             <div class="c-content">
-              <p>Constellations also have been important in culture and navigation long before we had sophisticated systems of navigation. Early explorers, particularly by sea, relied exclusively on the night sky to help them find their way to their destination. In fact, when “Columbus sailed the ocean blue in 1492″ and “discovered” America, he could not have done it without astronomy and the help of navigation of the cosmos, much of which is made possible because of the important constellations.</p>
-<p>When learning to find the great constellations in the sky, we use the “find one, you found them all” system. That is because the easiest constellation to find will guide us to the rest of them.</p>
+              <p>Content Here **</p>
             </div>
           </div>
           <router-link tag="span" class="cta" to="/services">Learn about our Services <i class="material-icons">arrow_forward</i></router-link>
@@ -51,8 +50,10 @@ export default {
     flex-direction: column;
   }
   > div {
+    flex: 2;
     &:nth-child(1) {
       padding-right: 96px;
+      flex:3;
       @media (max-width: 700px) {
         padding-right: 0;
       }

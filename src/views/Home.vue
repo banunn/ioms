@@ -42,21 +42,6 @@ export default {
           desc:
             "Electroencephalography is used to record and analyze the brain's spontaneous electrical activity. EEG’s also reveal, potential fluctuations in brain activity that may occure due to stimulus from surgical procedures."
         },
-        {
-          title: "VEP",
-          desc:
-            "Visual Evoked Potential measures the time that it takes for a visual stimulus to travel from the eye to the occipital cortex, and can detect subtle abnormalities along nerve pathways that may not be visible through other exams."
-        },
-        {
-          title: "BAER",
-          desc:
-            "A Brainstem Auditory Evoked Response test measures how your brain processes the sounds you hear. The test can detect nervous system disorders by recording your brain’s response to auditory stimulus."
-        },
-        {
-          title: "Cortical Mapping",
-          desc:
-            "Through direct stimulation of the cerebral cortext, Cortical Mapping exposes the relationship between cortical structure and systemic function, and reduces the risk of unnecessary functional damage during surgical manipulation."
-        }
       ]
     }
   }

@@ -43,7 +43,7 @@ export default {
   display: grid;
   height: 100%;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: 1fr;
   grid-gap: 60px 90px;
   @media (max-width: 700px) {
     grid-template-columns: 1fr 1fr;

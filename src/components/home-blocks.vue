@@ -41,7 +41,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 .home-blocks {
-  height: 360px;
   display: flex;
   @media (max-width: 700px) {
     flex-direction: column;
@@ -51,7 +50,7 @@ export default {
     flex: 1;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    padding: 82px 0;
     @media (max-width: 700px) {
       padding: 72px 0;
     }
