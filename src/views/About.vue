@@ -11,15 +11,14 @@
           <div class="content-block">
             <header>Our Purpose</header>
             <div class="c-content">
-              <p>Our purpose is to bring clinical expertise and cutting-edge technology, along with a patient-centered approach and compassionate care, to provide coverage of any case involving at risk neural structures. Our extensively trained surgical neurophysiologists are equiped to administer a number of intraoperative procedures that help surgical teams dramatically improve patient safety during brain, spine, and peripheral nerve surgeries. Our on-site neurodiagnostic technologists collect, analyze and, in conjuntion with our remote interpreting physicians, interpret real-time analytics on patient neural functions, and immediately detect any neurological deficits during surgeries. This real-time feedback allows surgeons to promptly take corrective action, and thus helps mitigate the risk of postoperative neurological deficits.</p>
+              <p>Our purpose is to bring clinical expertise and cutting-edge technology, along with a patient-centered approach and compassionate care, to provide coverage of any case involving at risk neural structures. Our extensively trained surgical neurophysiologists are equipped to administer a number of intraoperative procedures that help surgical teams dramatically improve patient safety during brain, spine, and peripheral nerve surgeries.</p>
             </div>
           </div>
         </div>
         <div>
           <div class="content-block">
-            <header>Our Staff</header>
             <div class="c-content">
-              <p>Content Here **</p>
+              <p>Our on-site neurodiagnostic technologists collect, analyze and, in conjunction with our remote interpreting physicians, interpret real-time analytics on patient neural functions, and immediately detect any neurological deficits during surgeries. This real-time feedback allows surgeons to promptly take corrective action, and thus helps mitigate the risk of postoperative neurological deficits.</p>
             </div>
           </div>
           <router-link tag="span" class="cta" to="/services">Learn about our Services <i class="material-icons">arrow_forward</i></router-link>

@@ -10,7 +10,7 @@
     </div>
     <div class="copy">
       <span>© 2018 Intraoperative Monitoring Services, LLC.</span>
-      <p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s exciting to think about setting up your own viewing station.</p>
+      <p>Oklahoma Surgical Hospital, Saint Francis Health System, and Hillcrest Medical Center logos are trademarks or registered trademarks of their respective holders.</p>
     </div>
   </div>
   <div class="contact">

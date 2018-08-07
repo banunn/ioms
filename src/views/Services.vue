@@ -4,7 +4,7 @@
     <page-content>
         <header class="service-header">
           <h3 class="sub-head">Intraoperative Neurophysiological Monitoring (IONM) Services</h3>
-          <p>Constellations also have been important in culture and navigation long before we had sophisticated systems of navigation. Early explorers, particularly by sea, relied exclusively on the night sky to help them find their way to their destination. In fact, when “Columbus sailed the ocean blue in 1492″ and “discovered” America, he could not have done it without astronomy and the help of navigation of the cosmos, much of which is made possible because of the important constellations.</p>
+          <p>Intraoperative Neurophysiologic Monitoring (IONM) is a technique aimed at reducing the risk of postoperative neurological deficits, such as muscle weakness and paralysis, in any procedure where neural structures could potentially be at risk. IONM procedures present real-time information on patient neural function, allowing surgical teams to identify, avoid, and/or correct potential neurological deficits in anesthetized patients during the procedure.</p>
         </header>
         <div class="grid-container">
           <service-block :services="services"></service-block>
@@ -39,9 +39,9 @@ export default {
             "Electromyography is used to assess the health of muscles and the nerve cells that control them. EMG results can reveal nerve dysfunction, muscle dysfunction or problems with nerve-to-muscle signal transmission."
         },
         {
-          title: "EGG",
+          title: "EEG",
           desc:
-            "Electroencephalography is used to record and analyze the brain's spontaneous electrical activity. EEG’s also reveal, potential fluctuations in brain activity that may occure due to stimulus from surgical procedures."
+            "Electroencephalography is used to record and analyze the brain's spontaneous electrical activity. EEG’s also reveal, potential fluctuations in brain activity that may occur due to stimulus from surgical procedures."
         },
         {
           title: "VEP",
@@ -56,7 +56,7 @@ export default {
         {
           title: "Cortical Mapping",
           desc:
-            "Through direct stimulation of the cerebral cortext, Cortical Mapping exposes the relationship between cortical structure and systemic function, and reduces the risk of unnecessary functional damage during surgical manipulation."
+            "Through direct stimulation of the cerebral cortex, Cortical Mapping exposes the relationship between cortical structure and systemic function, and reduces the risk of unnecessary functional damage during surgical manipulation."
         },
       ]
     }

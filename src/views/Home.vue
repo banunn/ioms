@@ -40,7 +40,7 @@ export default {
         {
           title: "EGG",
           desc:
-            "Electroencephalography is used to record and analyze the brain's spontaneous electrical activity. EEG’s also reveal, potential fluctuations in brain activity that may occure due to stimulus from surgical procedures."
+            "Electroencephalography is used to record and analyze the brain's spontaneous electrical activity. EEG’s also reveal, potential fluctuations in brain activity that may occur due to stimulus from surgical procedures."
         },
       ]
     }
